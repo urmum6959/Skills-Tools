@@ -1,8 +1,6 @@
-import sys
 from time import sleep
 import os
 import time
-from turtle import clear
 import requests
 import marshal
 import zlib
